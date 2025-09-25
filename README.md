@@ -3,7 +3,11 @@
 
 #### My name is João Furlaneto, you can call me Furla 
 I Have 17 Years old, and
-I Live in Brazil
+I Live in Brazil, <br>
+I currently study at SESC, I'm finishing the 3rd year of high school
+
+
+Fun fact: I love play voleyball in my free time
 
 Now I studying in class - Java <br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
