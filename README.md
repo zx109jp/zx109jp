@@ -8,7 +8,9 @@ I study at Unicesumar, currently at 2° semester.
 
 Fun fact: in my free time I love playing games on my computer, and creating modpacks for minecraft btw :P
 
-Now I studying in class - C <br>
+Now I studying in class - C/C++ <br>
+I intend to study Java/JavaScript/Python. <br>
+Meenwhile i study JavaScript for change recipes in Minecraft :P
 
 
 ## Contacts:
