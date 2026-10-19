@@ -2,22 +2,20 @@
 
 
 #### My name is João Furlaneto, you can call me Furla 
-I Have 17 Years old, and
+I Have 18 Years old, and
 I Live in Brazil, <br>
-I currently study at SESC, I'm finishing the 3rd year of high school
+I currently study at Unicesumar
 
 
 Fun fact: I love play voleyball in my free time
 
-Now I studying in class - Java <br>
+Now I studying in class - C <br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 ## Technologies and Tools
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## My Stats 🦾
-![zx109jp GitHub stats](https://github-readme-stats.vercel.app/api?username=zx109jp&theme=shadow_red)
 
 ## Contacts:
 <div>
